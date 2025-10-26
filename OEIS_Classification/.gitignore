@@ -1,0 +1,12 @@
+Sequence_Images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.ipynb_checkpoints/
+!sample_images/
